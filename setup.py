@@ -2,7 +2,7 @@ import setuptools
 
 PACKAGE_NAME = "cdep_package_a"
 DESCRIPTION = "Package A of cdep"
-URL = ""
+URL = "https://github.com/jmartinpe/cdep_package_a"
 AUTHOR = "John Doe"
 AUTHOR_EMAIL = "jmartinpe@sia.es"
 LICENSE = "UNLICENSED"
